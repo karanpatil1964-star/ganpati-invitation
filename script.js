@@ -59,3 +59,7 @@ function shareInvite() {
     alert("Invitation Link Copied");
   }
 }
+// Welcome Popup
+setTimeout(() => {
+  alert("🙏 श्री गणेश उत्सव 2026 🙏\n\n✨ पाटील परिवार आपका हार्दिक स्वागत करता है ✨");
+}, 1200);
